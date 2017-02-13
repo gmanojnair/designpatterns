@@ -16,7 +16,6 @@ public class CommandInvoker {
 		// TODO Auto-generated method stub
 		commands.get(key).execute();
 	}
-
 	
 
 }
